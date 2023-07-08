@@ -1,0 +1,27 @@
+# Header del commit (Linea 1) : git commit -m "..." -,
+#   Accion que se tomo :
+#       Fix : Modicaciones al codigo.
+#       Feat : Nuevos agregados.
+#       Refactor : Todo codigo que debe ser refactorizado. Soluciones transitorias.
+#       Doc : Actualizaciones de documentacion
+# Estructura : [...] ( [...] ): Trabajo
+
+
+---
+# Breve descripcion de la accion tomada (50 caracteres):
+Descripcion :
+
+# Resumen de las modificaciones
+Resumen :
+
+# Problema 
+Problema :
+
+# Solucion/es
+Soluciones tomadas :
+
+---
+# Info adicional
+- Ticket #
+- Requirente
+- Sprint
