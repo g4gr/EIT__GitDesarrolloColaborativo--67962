@@ -1,4 +1,4 @@
-# Header del commit (Linea 1) : git commit -m "..." -,
+# Header del commit (Linea 1) : git commit -m "..." -m "..."
 #   Accion que se tomo :
 #       Fix : Modicaciones al codigo.
 #       Feat : Nuevos agregados.
@@ -9,16 +9,17 @@
 
 ---
 # Breve descripcion de la accion tomada (50 caracteres):
-Descripcion :
+Descripcion : 
 
 # Resumen de las modificaciones
-Resumen :
+Resumen : 
 
 # Problema 
-Problema :
+Problema : 
 
 # Solucion/es
-Soluciones tomadas :
+Soluciones tomadas : 
+
 
 ---
 # Info adicional
